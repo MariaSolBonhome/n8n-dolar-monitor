@@ -15,6 +15,7 @@ Pipeline que registra automáticamente, dos veces por día, la cotización del d
 - Code (JavaScript): filtra oficial y blue, calcula la brecha
 - Google Sheets: Append row: hoja "Historico"
 
+![Workflow en n8n](workflow-n8n.png)
 
 ## Archivos en este repo
 - `workflow.json` — export completo del workflow de n8n, importable directamente en cualquier instancia de n8n
